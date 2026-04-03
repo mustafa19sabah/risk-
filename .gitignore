@@ -1,0 +1,33 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+.venv/
+ENV/
+.ENV/
+
+# Databases
+*.sqlite3
+*.db
+*.db-journal
+
+# IDE files
+.idea/
+*.swp
+*.swo
+*.class
+
+# Logs
+*.log
+
+# Unit test results
+test-results/
+
+# Coverage reports
+htmlcov/
+
+# Other unnecessary files
+.DS_Store
+Thumbs.db
